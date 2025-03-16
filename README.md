@@ -27,6 +27,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onchana01&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onchana01&theme=github_dark" alt="GitHub Streak" />
 </p>
