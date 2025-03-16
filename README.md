@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Backend Developer & Data Scientist </h3>
-<p align="left"> <a href="https://twitter.com/abner_company" target="blank"><img src="https://img.shields.io/twitter/follow/abner_company?logo=twitter&style=for-the-badge" alt="abner_company" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/abner-onchana/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Follow Abner Onchana on LinkedIn" />
+  </a> 
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://abneronchana.pythonanywhere.com/](https://abneronchana.pythonanywhere.com/)
 
@@ -9,10 +14,6 @@
 - 📫 How to reach me **abnerogega01@gmail.com**
 
 - ⚡ Fun fact **We can Live in Mars**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
