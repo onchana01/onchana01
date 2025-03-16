@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abner Onchana</h1>
-<h3 align="center">A passionate Backend Developer from Kenya</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Backend Developer & Data Scientist </h3>
 <p align="left"> <a href="https://twitter.com/abner_company" target="blank"><img src="https://img.shields.io/twitter/follow/abner_company?logo=twitter&style=for-the-badge" alt="abner_company" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abneronchana.pythonanywhere.com/](https://abneronchana.pythonanywhere.com/)
