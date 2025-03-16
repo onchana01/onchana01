@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abner Onchana</h1>
 <h3 align="center">A passionate Backend Developer from Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onchana01&label=Profile%20views&color=0e75b6&style=flat" alt="onchana01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onchana01" alt="onchana01" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abner_company" target="blank"><img src="https://img.shields.io/twitter/follow/abner_company?logo=twitter&style=for-the-badge" alt="abner_company" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abneronchana.pythonanywhere.com/](https://abneronchana.pythonanywhere.com/)
