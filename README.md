@@ -21,7 +21,7 @@
 - **Languages:** Python, SQL, JavaScript, TypeScript, Vue.js, Nuxt.js, HTML/CSS, Shell Scripting  
 - **Frameworks:** Django, Django REST Framework, FastAPI, Dash, Backtrader, Vue.js, Nuxt.js  
 - **Tools:** Docker, Kubernetes, Git, GitHub, PostgreSQL, MySQL, MongoDB, Redis, Nginx, Apache, InfluxDB  
-- **Platforms:** Microsoft Azure, AWS, Google Cloud Platform (GCP), IBM Cloud  
+- **Platforms:** Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud  
 - **Concepts:** REST APIs, Microservices, Serverless Architecture, Application Security, CI/CD Pipelines, Time-Series Data Management  
 - **Soft Skills:** Agile Collaboration, Stakeholder Management, Communication, Mentoring, Problem-Solving  
 
